@@ -6,6 +6,8 @@
 [![ox_core](https://img.shields.io/badge/ox__core-Required-orange?style=for-the-badge)](https://github.com/overextended/ox_core)
 [![Nostr](https://img.shields.io/badge/Nostr-Integrated-purple?style=for-the-badge)](https://github.com/RedDragonElite/rde_nostr_log)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71d36bbd-83d6-47c2-af06-04a8233414a3" />
+
 **The most realistic AI-powered public transport for FiveM — 100% Free Forever**
 
 *Built by [Red Dragon Elite](https://rd-elite.com) | Powered by Nostr | Uncensorable by Design*
